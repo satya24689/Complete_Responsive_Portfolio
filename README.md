@@ -9,7 +9,7 @@ Welcome to my responsive portfolio! This project showcases my web development sk
 - HTML5
 - CSS3
 - JavaScript (optional)
-- [GitHub Pages](https://pages.github.com/): Deployed on GitHub Pages for easy access and sharing.
+
 
 ### Portfolio Responsive Complete
 
@@ -27,11 +27,6 @@ Welcome to my responsive portfolio! This project showcases my web development sk
 - **Contact Form:** Reach out to me using the contact form or connect with me on social media.
 - **Customization:** Easily customize the portfolio with your own projects, details, and styling.
 
-## Accessing the Portfolio
-
-You can access and explore my portfolio by visiting the following URL:
-
-[Portfolio Link](https://satya24689.github.io/responsive-portfolio)
 
 ## Customizing the Portfolio
 
